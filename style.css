@@ -1,0 +1,42 @@
+.navbar {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.jumbotron {
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    font-family: bolgago;
+    font-size: 20px;
+    height: 100vh;
+    color: white;
+    padding: 14rem 5rem;
+}
+
+
+#project {
+    background-color: #aadf94;
+}
+
+
+#about {
+    background-color: #88C26E;
+    text-align: center;
+    margin-top: -3rem;
+
+}
+
+#massage {
+    background-color: #aadf94;
+}
+
+.massage {
+    height: 50vh;
+}
+
+.background {
+    background-color: #88C26E;
+}
+
+.background p {
+    margin-top: -3rem;
+}
